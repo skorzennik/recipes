@@ -1,3 +1,7 @@
+# Guacamole
+
+![a blue bowl of green guacamole sitting on cutting board with knife and cut cilantro on the side.](https://upload.wikimedia.org/wikipedia/commons/e/ed/Guacamole_avocados.jpg)
+
 Ingredients:
 - 2 avocados
 - 1/2 red onion
