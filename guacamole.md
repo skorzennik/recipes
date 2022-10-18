@@ -7,7 +7,7 @@ Ingredients:
 - 1/2 red onion
 - 1 lime
 - 2 tsp salt
-- Jalapeno to taste
+- Jalapeno and garlic to taste
 
 Instructions:
 - cut and mash avocados
